@@ -1,0 +1,78 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+}
+#wrapper{
+ background-color: #F7F7F7;
+ width: 970px;
+ height: 1029px;
+ text-align: center; 
+ padding: 50px;	
+}
+#background{
+ background-color: black;
+ width: 970px;
+ height: 875px;
+ display: inline-block;
+ padding: 20px;
+}
+#wrapper_text{
+ color: black;
+ font-weight: bold;
+ padding: 10px; 
+}
+#wrapper_text1{
+ display: inline-block;
+ padding-right: 375px;
+ font-size: 30px;
+ font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#wrapper_text2{
+ display: inline-block;
+ font-size: 23px;
+ font-family: sans-serif;
+}
+#photo{
+	height: 250px; 
+	width: 400px;
+	background-color: #C0C0C0;
+	display: inline-block;
+	border: 1px;
+	border-color: #C0C0C0;
+}
+#header_text{
+	height: 250px; 
+	width: 520px;
+	background-color: #C0C0C0;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 30px; 
+	text-align: left;
+	font-family: sans-serif;
+}
+#header_title{
+	background-color: grey;
+	padding: 10px;
+	height: 22px;
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+#header_subtext1{
+	padding: 10px;
+}
+#header_subtext2{
+	padding: 10px;
+}
+#header_link{
+	padding: 10px;
+	color: black;
+}
+.content_row1{
+	background-color: blue;
+	height: 300px;
+	width: 970px;
+	display: inline-block;
+}
+
